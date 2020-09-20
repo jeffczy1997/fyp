@@ -1,0 +1,9 @@
+tensorflow
+tensorflow_core
+six.py
+dist
+build
+**/__pycache__
+hooks
+Current.h5
+data.pkl
